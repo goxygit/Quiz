@@ -1,0 +1,11 @@
+.app{
+    width: 850px;
+    height: 400px;
+    background-color: white;
+    box-shadow: 1px 1px 1px  rgba(rgb(53, 53, 53), rgb(57, 58, 57), rgb(56, 56, 56), 0.8);
+    border-radius: 30px;
+}
+.gradient{
+    background: linear-gradient(to right, #00cc99 0%, #99ff66 100%);
+    transition: all 0.3s ease-in-out;
+}
